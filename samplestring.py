@@ -6,4 +6,5 @@
 #
 
 instring = input('Enter a string')
+instring = instring.upper()
 print('\nThe string is:', instring)
